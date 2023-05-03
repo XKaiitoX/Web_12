@@ -1,0 +1,88 @@
+/*
+Colores de mi sitio web
+primary: #3c00ff
+segundary: #0F6292
+light: #16FF00
+info: #FFED00
+*/
+
+.bg-primary{
+    background-color: #3e05fc;
+    
+}
+
+.text-light{
+    color: #000000;
+}
+
+.text-center{
+    text-align: center;
+    
+}
+.text-right{
+    text-align: right;
+}
+.text-segundary{
+    color: #ffffff;
+    font-size: 17px;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #dd00ffe3;
+    font-size: 20px;
+    border-radius: 2vh;
+}
+.text-white{
+    color: rgb(254, 254, 254);
+}
+.bg-segundary{
+    color: rgb(1, 13, 245);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 2px 2px 10px  white;
+    border-radius: 5px;
+
+    
+}
+body{
+    background-image: url(https://fondosmil.com/fondo/7687.png);
+}
+
+.caja{
+    border: 2px solid #000000;
+    margin-top: 5%;
+    box-shadow: 2px 2px 10px 10px white;
+    background: violet;
+    height: auto;
+    width: 50%;
+    border-radius: 2vh;
+}
+
+.letra{ 
+    margin-top: 7%;
+    padding: 10px;
+    margin-left: 45%;
+    background: blue;
+    border: 2px solid black;
+    color: white;
+    border-radius: 2vh;
+    box-shadow: 2px 2px 20px 20px white;
+    height: 20px;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.caja2{
+    margin-top: 2%;
+    height: 100px;
+    width: 50%;
+    background: blue;
+    box-shadow: 2px 2px 20px 20px white;
+    margin-left: 25%;
+    border-radius: 1vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 1px white;
+}
